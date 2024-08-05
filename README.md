@@ -16,7 +16,7 @@
 
 #### A little more about me
 ```javascript
-const aryan = {
+const ishmit = {
   pronouns: "He" | "Him",
   code: ["Python", "Java", "HTML/CSS", "C++", "MERN"],
   askMeAbout: ["full stack", "python", "Networking"],
