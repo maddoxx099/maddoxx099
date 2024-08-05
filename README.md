@@ -60,8 +60,6 @@ const ishmit = {
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maddoxx0992&theme=onedarkr" alt="maddoxx099" />
 </p>
 
-#### Contribution Graph
-[![Ishmit Singh's github activity graph](https://activity-graph.herokuapp.com/graph?username=maddoxx099&theme=react-dark)](https://github.com/maddoxx099/github-readme-activity-graph)
 <!---
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
